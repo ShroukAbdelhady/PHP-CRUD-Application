@@ -1,0 +1,21 @@
+{
+    "name": "shorouk160377/task",
+    "autoload": {
+        "psr-4": {
+            "Shorouk160377\\Task\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ShroukAbdelhady",
+            "email": "shroukemad66@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5",
+        "twbs/bootstrap": "5.0.2"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^6.3"
+    }
+}
